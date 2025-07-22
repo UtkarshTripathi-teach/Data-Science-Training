@@ -1,0 +1,10 @@
+What is the capital of India?|Mumbai|Kolkata|New Delhi|Chennai|C
+Who was the first Prime Minister of India?|Jawaharlal Nehru|Mahatma Gandhi|Indira Gandhi|Rajendra Prasad|A
+Which river is considered sacred in India?|Yamuna|Ganga|Godavari|Krishna|B
+In which year did India gain independence?|1945|1947|1950|1952|B
+What is the national animal of India?|Elephant|Tiger|Lion|Peacock|B
+Who wrote the Indian national anthem?|Tagore|Premchand|Tulsidas|Vivekananda|A
+Which Indian city is known as the Pink City?|Mumbai|Hyderabad|Jaipur|Pune|C
+What is the currency of India?|Dollar|Rupee|Taka|Dinar|B
+Which Indian state is famous for the dance form Kathakali?|Tamil Nadu|Odisha|Kerala|Karnataka|C
+Where is the Taj Mahal located?|Delhi|Agra|Jaipur|Mumbai|B
