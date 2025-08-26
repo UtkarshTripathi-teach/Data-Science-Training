@@ -1,15 +1,15 @@
-#Data-Science-Training
+# Data-Science-Training
 A comprehensive training program covering the fundamentals of Python and data science, from basic programming to advanced machine learning model deployment. This repository contains the projects, code, and resources from the training.
 
-🤝 Training Collaborators
+## 🤝 Training Collaborators
 This training program was a collaborative effort between IINTM college and Grastech. The entire curriculum was expertly designed and delivered by the trainer, Ankit Mishra sir.
 
 Trainer's GitHub: https://github.com/ankitmisk
 
-📋 Training Outcomes & Curriculum
+## 📋 Training Outcomes & Curriculum
 The training was structured to provide an in-depth, hands-on learning experience. It progressed logically through key concepts and technologies, culminating in the successful deployment of machine learning models.
 
-🐍 Core Python & Programming Fundamentals
+## 🐍 Core Python & Programming Fundamentals
 Basic Programming: Covered basic data types, conditional statements (if, else, elif), and loops (for, while).
 
 Functional & Module Programming: Explored functional programming concepts and created custom modules. Included projects on a Paytm Sound Box, Fibonacci series, anagrams, palindromes, and pattern printing.
@@ -22,12 +22,12 @@ Object-Oriented Programming (OOPs): Mastered the four pillars of OOPs (Encapsula
 
 Database Connectivity: Established connections between Python and MySQL, performing CRUD (Create, Read, Update, Delete) operations. Completed a mini-project to scrape web data and dump it into a database.
 
-📊 Data Analysis & Visualization
+## 📊 Data Analysis & Visualization
 NumPy: Explored the creation and manipulation of N-dimensional arrays. Used array methods to create and modify images, and learned about array indexing, slicing, broadcasting, and key methods like shape, size, and reshape.
 
 Pandas: Focused on data analytics and EDA (Exploratory Data Analysis). Learned to create Series and DataFrames, and used important methods like head, tail, describe, isna, corr, and fillna. Conducted in-depth EDA projects on the Car Dekho and IPL Datasets, including masking and DataFrame filtering.
 
-🤖 Machine Learning & Deployment
+## 🤖 Machine Learning & Deployment
 Introduction to ML: Gained a clear understanding of the differences between Data Science, AI, ML, and Gen AI. Explored the benefits and applications of classical machine learning models.
 
 Supervised Learning:
